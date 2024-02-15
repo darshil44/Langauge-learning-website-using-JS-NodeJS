@@ -9,6 +9,7 @@ document.addEventListener('DOMContentLoaded', function() {
         { word: 'Hello', translation: 'Bonjour', language: 'English-French' },
         { word: 'Goodbye', translation: 'Au revoir', language: 'English-French' },
         { word: 'Thank you', translation: 'Merci', language: 'English-French' },
+        { word: 'Welcome', translation: 'Swagatam', language: 'English-Sanskrit' },
         // Add more vocabulary words as needed
     ];
 
