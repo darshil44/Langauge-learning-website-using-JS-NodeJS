@@ -13,6 +13,8 @@ document.addEventListener('DOMContentLoaded', function() {
         // Add more vocabulary words as needed
     ];
 
+
+    
     let currentIndex = 0;
 
     // Display initial word
