@@ -2,8 +2,7 @@ document.addEventListener('DOMContentLoaded', function() {
     const wordDisplay = document.getElementById('wordDisplay');
     const nextWordBtn = document.getElementById('nextWordBtn');
     const startQuizBtn = document.getElementById('startQuizBtn');
-    const progressPercentage = document.getElementById('progressPercentage');
-
+    const progressPercentage = document.getElementById('progressPercentage')
     // Original data for demonstration
     const vocabulary = [
         { word: 'Hello', translation: 'Bonjour', language: 'English-French' },
